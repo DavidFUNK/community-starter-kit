@@ -36,3 +36,9 @@ firstPRMergeComment: >
 ### Example Messages
 
 CONFIGS PLACEHOLDER
+
+Saludo de buen dia
+
+Como instalar la App
+
+Como Configurar la App 
